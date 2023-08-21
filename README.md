@@ -10,7 +10,7 @@
 
 <div>
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BlackjackXXI&label=Profile%20views&color=0e75b6&style=flat" alt="BlackjackXXI" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="BlackjackXXI" /> </p>
 
 
 ### ⚡ My tech stack
