@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Blackjack </h3>
+<h3 align="center">This is Blackjack </h3>
 
 🔭 Currently Software Engineering student - cybersec, programming, and information security is my passion.<br>👯 infatuated with security-oriented development projects, CTFs, Hacking and writeups.<br>🤝 I’m looking for help with - learning cryptography and web technologies, and DevOps/DevSecOps tools and concepts.<br>💬 Ask me about - Reverse engineering, Forensics, steganography, mobile OS exploits, Troubleshooting and penetration testing.<br>⚡ Fun fact - I can fix your laptop!
 
