@@ -1,7 +1,5 @@
 <h3 align="center">Hi this is Blackjack 👁️ </h3>
-
 🔭 Currently a Software Engineering student - cybersec, programming, and information security is my passion.<br>💻 infatuated with security-oriented development projects, CTFs, Hacking and writeups.<br>🤝 I’m looking for help with - learning cryptography and web technologies, and DevOps/DevSecOps tools and concepts.<br>💬 Ask me about - Reverse engineering, Forensics, steganography, mobile OS exploits, Troubleshooting and penetration testing.<br>⚡ Fun fact - I can fix your laptop!
-
 <div align="center" gap="5px">
   <a href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackjackXXI&theme=github_dark&show_icons=true&hide_border=true" alt="Blackjacks Github Stats" /></a>
   <br /> 
@@ -32,7 +30,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=c&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
-
 ### My Socials 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/blvckjvck_xxi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blackjackxxi/)
