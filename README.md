@@ -15,6 +15,7 @@
   
 ###  My tech stack ⚡
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badgee&logo=javascript&logoColor=000000&color=%23FFCE5A)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badgee&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badgee&logo=react)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badgee&logo=react%20query&logoColor=white)
@@ -24,14 +25,28 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badgee&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badgee&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badgee&logo=github)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badgee&logo=vercel&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-%23000000.svg?style=for-the-badgee&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badgee&logo=linux&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=c&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badgee&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge3&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badgee&logo=lua&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badgee&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badgee&logo=windows-terminal&logoColor=white)
+
 ### My Socials 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/blvckjvck_xxi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blackjackxxi/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Blvckjvck_XXi)
 [![E-mail](https://img.shields.io/badge/Email-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:oussamabouaoued@gmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badgee&logo=protonmail&logoColor=white)](mailto:oussamabouaoued@protonmail.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badgee&logo=Mastodon&logoColor=white)](https://infosec.exchange/@Blackjack)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badgee&logo=Tor-Browser&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badgee&logo=dev.to&logoColor=white)
+![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badgee&logo=ghost&logoColor=%23F7DF1E)
+![Reddit](https://img.shields.io/badge/Reddit-FF5722?style=for-the-badgee&logo=Reddit&logoColor=white)
+
+
+
