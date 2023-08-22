@@ -15,7 +15,7 @@
   
 ###  My tech stack ⚡
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badgee&logo=javascript&logoColor=000000&color=%23FFCE5A)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badgee&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badgee&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badgee&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badgee&logo=react)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badgee&logo=react%20query&logoColor=white)
