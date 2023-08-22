@@ -12,9 +12,9 @@
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="BlackjackXXI" /> </p>
 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### ⚡ My tech stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badgee&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badgee&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badgee&logo=react)
@@ -28,3 +28,12 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badgee&logo=vercel&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-%23000000.svg?style=for-the-badgee&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badgee&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=c&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
+
+### My Socials 🌐
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/blvckjvck_xxi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blackjackxxi/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Blvckjvck_XXi)
+[![E-mail](https://img.shields.io/badge/Email-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:oussamabouaoued@gmail.com)
