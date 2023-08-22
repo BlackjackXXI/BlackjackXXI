@@ -1,20 +1,21 @@
 <h3 align="center">Hi 👋, I'm Blackjack </h3>
 
+🔭 Currently Software Engineering student - cybersec, programming, and information security is my passion.<br>👯 infatuated with security-oriented development projects, CTFs, Hacking and writeups.<br>🤝 I’m looking for help with - learning cryptography and web technologies, and DevOps/DevSecOps tools and concepts.<br>💬 Ask me about - Reverse engineering, Forensics, steganography, mobile OS exploits, Troubleshooting and penetration testing.<br>⚡ Fun fact - I can fix your laptop!
+
 <div align="center" gap="5px">
   <a href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackjackXXI&theme=github_dark&show_icons=true&hide_border=true" alt="Blackjacks Github Stats" /></a>
   <br /> 
 <!--
   <a align="center" href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackjackXXI&theme=github_dark&layout=compact&hide_border=true" /></a>
 -->
-
-
 <div>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="BlackjackXXI" /> </p>
-
+<!---
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### ⚡ My tech stack
+--->
+  
+###  My tech stack ⚡
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badgee&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badgee&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badgee&logo=react)
