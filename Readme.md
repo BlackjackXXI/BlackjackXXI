@@ -1,7 +1,7 @@
 <h3 align="center">Hi this is Blackjack 👁️ </h3>
 🔭 Currently a Software Engineering student - cybersec, programming, and information security is my passion.<br>💻 infatuated with security-oriented development projects, CTFs, Hacking and writeups.<br>🤝 I’m looking for help with - learning cryptography and web technologies, and DevOps/DevSecOps tools and concepts.<br>💬 Ask me about - Reverse engineering, Forensics, steganography, mobile OS exploits, Troubleshooting and penetration testing.<br>⚡ Fun fact - I can fix your laptop!
 <div align="center" gap="5px">
-  <a href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackjackXXI&theme=github_dark&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage"/></a>
+  <a href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonkomarev&rank_icon=github&theme=github_dark&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage&hide_title=true" altusername="blackjackxxi"/></a>
   <br /> 
 <!--
   <a align="center" href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackjackXXI&theme=github_dark&layout=compact&hide_border=true" /></a>
