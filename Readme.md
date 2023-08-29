@@ -36,6 +36,8 @@
 ![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badgee&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badgee&logo=windows-terminal&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%234D4D4D.svg?style=for-the-badgee&logo=kali-linux&logoColor=000000&color=%23FFCE5A)
+![Kali Linux](https://img.shields.io/badge/Ubuntu-%234D4D4D.svg?style=for-the-badgee&logo=ubuntu&logoColor=%23ffffffcolor=%23FFCE5A)
+
 
 
 
