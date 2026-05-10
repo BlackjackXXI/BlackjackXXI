@@ -3,8 +3,9 @@
 <div align="center" gap="5px">
  C href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antonkomarev&rank_icon=github&theme=github_dark&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage&hide_title=true" altusername="blackjackxxi"/> </a>
   <br /> 
-<
-  <a align="center" href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src=" (https://streak-stats.demolab.com?user=BlackjackXXI&theme=dark&hide_border=true)](https://git.io/streak-stats)" /></a>
+<!--
+  <a align="center" href="https://github.com/BlackjackXXI/github-readme-stats"><img align="center" src=" (https://streak-stats.demolab.com?user=BlackjackXXI&theme=dark&hide_border=true)](https://git.io/streak-stats)" /></
+ 
 <div>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="BlackjackXXI" /> </p>
